@@ -1,3 +1,8 @@
+//If you're just getting started, try building a small webpage using just:
+
+//<html>, <head>, <body>, <h1>, <p>, <a>, <img>, <ul>, <li>, <div> tags !
+//Event management webpage using HTML 
+
 <!DOCTYPE html>
 <html>
     <head>
