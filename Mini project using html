@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        <link rel="icon" href="img/date.png">
+   
+    </head>
+    
+
+    <body bgcolor="black" style="color: white;">
+        <center>
+        <h1>UPCOMING EVENTS 📅</h1>
+        <p>Dont miss any of your events.Stay updated!</p>
+        </center>
+        <hr>
+
+        <p>
+            Welcome to our event management services, where creativity meets precision. We specialize in planning and executing unforgettable events tailored to your unique vision. From corporate conferences and product launches to weddings and private parties, our team ensures every detail is flawlessly managed. With a strong network of vendors, innovative concepts, and professional coordination, we bring your ideas to life with style and efficiency. Whether it's a small gathering or a large-scale event, our goal is to create seamless, stress-free experiences for you and your guests. Let us turn your special occasion into a truly memorable celebration.
+        </p>
+        <center>
+        <img src="img/event1.png">
+        <h1>Photo Gallery Event</h1>
+        <h2>Free Entry|Free Food|Pets are not allowed  </h2>
+
+        <p>Established in 2015, we have successfully managed and delivered over 500 events nationwide. With a reputation for excellence, our experienced team brings creativity, reliability, and professionalism to every project. From concept to execution, we ensure your event runs smoothly and leaves a lasting impression on your guests.
+
+        </p>
+         </center>
+
+        <center>
+        <img src="img/event2.png">  
+        <h1>
+              <a href="https://www.myntra.com/">Fashion store</a>
+        </h1>
+        <h2>Free Entry|Free Food|Pets are not allowed  </h2>
+        <p>Let us turn your vision into reality. From concept to celebration, we handle every detail with creativity and care. Whether it’s a corporate event, wedding, or party, we make it unforgettable. Contact us today and let’s create an experience your guests will talk about for years.</p>
+        </center>
+        <hr>
+        <center>
+            <h1>Contact</h1>
+            <h2>+91 044 450 4500|eventcollab@gmail.com</h2>
+            <p>No.9 baba street avadi chennai-72</p>
+        </center>
+        
+
+
+
+    </body>
+</html>
