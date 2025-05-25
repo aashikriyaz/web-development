@@ -1,10 +1,10 @@
-1. Basic Structure Tags
+📝1. Basic Structure Tags
 <!DOCTYPE html>   → Declares the document type (HTML5)
 <html>            → Root of the document
 <head>            → Metadata, title, links, etc.
 <body>            → Visible content of the webpage
 
-2. Text Formatting Tags
+📝2. Text Formatting Tags
 <h1> to <h6>      → Headings (h1 is biggest)
 <p>               → Paragraph
 <b>, <strong>     → Bold text (strong is semantic)
@@ -12,11 +12,11 @@
 <br>              → Line break
 <hr>              → Horizontal rule (line)
 
- 3. Link & Image
+📝3. Link & Image
 <a href="URL">Link</a>         → Hyperlink
 <img src="path" alt="desc">   → Image tag
 
- 4. Tables
+📝4. Tables
 <table>           → Table container
 <tr>              → Table row
 <th>              → Table header cell
