@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Aashik Riyaz M - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      background-color: #f9f9f9;
+      color: black;
+    }
+    h1, h2 {
+      color: rgb(6, 52, 67);
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .contact a {
+      display: block;
+      color: #2980b9;
+      text-decoration: none;
+    }
+    ul {
+      list-style-type: circle;
+      padding-left: 20px;
+    }
+    .skills, .soft-skills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .skills div, .soft-skills div {
+      background-color: #ecf0f1;
+      padding: 8px 12px;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Aashik Riyaz M</h1>
+
+  <div class="section contact">
+    <h2>Contact</h2>
+    <p><strong>Phone:</strong> +91 9360010032</p>
+    <p><strong>Email:</strong> aashikm567@gmail.com</p>
+    <a href="https://www.linkedin.com/in/aashik-riyaz-m-b35755344/" target="_blank">LinkedIn</a>
+    <a href="https://github.com/aashikriyaz" target="_blank">GitHub</a>
+    <a href="https://leetcode.com/u/Aashik_riyaz26/" target="_blank">LeetCode</a>
+  </div>
+
+  <div class="section">
+    <h2>Profile Summary</h2>
+    <p>An Electronics and Communication Engineering (ECE) graduate with an interest in coding,
+       passionate about software development, embedded systems, and problem-solving. 
+       Currently undergoing training in Python and Java. Looking forward to building a project using Java.</p>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <ul>
+      <li><strong>B.E ECE</strong> | Saveetha Engineering College, Chennai (2022 - Present)<br>CGPA (upto 5th sem): 7.88</li>
+      <li><strong>HSC</strong> | Immanuel Matric Hr. Sec. School, Chennai (2022)<br>Completed with 87%</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Mini Project</h2>
+    <h3>Automatic Solar Tracking System</h3>
+    <p>
+      Designed a system that automatically adjusts solar panels to face the sun using LDRs and a microcontroller. 
+      This maximizes energy absorption throughout the day. LDRs detect sunlight intensity on either side, and 
+      based on the comparison, the motor adjusts the panel's position accordingly.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Internship - Marvel PET</h2>
+    <p>
+      Explored automation and embedded systems in PET bottle manufacturing. 
+      Observed PLCs, sensors, and IoT tools in action. Gained experience in data acquisition, 
+      signal processing, and real-time industrial systems.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Technical Skills</h2>
+    <div class="skills">
+      <div>C</div>
+      <div>C++</div>
+      <div>Java</div>
+      <div>HTML,CSS & JS</div>
+      <div>UI Designing - Figma</div>
+      <div>Canva</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Soft Skills</h2>
+    <div class="soft-skills">
+      <div>Active Learner</div>
+      <div>Teamwork</div>
+      <div>Time Management</div>
+      <div>Leadership</div>
+      <div>Effective Communication</div>
+      <div>Problem Solving</div>
+    </div>
+  </div>
+
+</body>
+</html>
